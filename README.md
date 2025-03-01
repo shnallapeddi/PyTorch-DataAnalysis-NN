@@ -1,4 +1,4 @@
-**Title**: Depicting the Crime Incidents of Buffalo, New York.
+**Title**: Depicting the Crime Incidents(using PyTorch, Neural networks) of Buffalo, New York.
 
 Understanding the pattern of crimes informs safer communities and decision-
 making processes. This report examines trends, statistical correlations, and points
